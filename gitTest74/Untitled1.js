@@ -1,3 +1,3 @@
 ﻿
 var		i = 1;
-var github1 = true;
+var github2 = true;
